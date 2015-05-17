@@ -1,7 +1,8 @@
 '''
 Author: Josh Vocal
-Version: 1.0
-Description: A simple program that asks the user name, age and username.
+Version: 1.1
+Changes: Fixed grammer in description.
+Description: A simple program that asks the user's name, age and username.
 '''
 #Imports
 
