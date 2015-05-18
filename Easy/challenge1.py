@@ -45,3 +45,4 @@ namecheck();
 agecheck();
 usernamecheck();
 printmsg(name, age, username);
+
