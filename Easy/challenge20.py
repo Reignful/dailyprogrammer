@@ -1,9 +1,3 @@
-'''
-Author: Josh Vocal
-Description: Create a program that finds prime numbers
-Version 1.0
-Changes:
-'''
 #Main
 lower = input("Enter lower range: ")
 upper = input("Enter upper range: ")
