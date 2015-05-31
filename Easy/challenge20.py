@@ -1,3 +1,4 @@
+#Finds all prime numbers between 2 integers and returns them.
 #Main
 lower = input("Enter lower range: ")
 upper = input("Enter upper range: ")
