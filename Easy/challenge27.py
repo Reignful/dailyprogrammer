@@ -6,6 +6,7 @@ Version 1.0
 Changes:
 '''
 #Functions
+#Leap year algorithm from wikipedia
 def ifLeapYear(year):
     if (year % 4 != 0):
         print ("Leap Year: No")
