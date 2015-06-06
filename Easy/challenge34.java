@@ -1,6 +1,8 @@
 /**
  * Created by Josh on 15-06-01.
  */
+//Description: The user inputs 3 numbers and the program takes the sum of the squares of the two larger numbers.;w
+
 import java.util.Scanner;
 
 public class challenge34 {
