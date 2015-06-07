@@ -1,3 +1,8 @@
+/*
+Author: Josh Vocal
+Description: Take a file as an arguement and count the total number of lines and words in the file
+*/
+
 #include <stdio.h>
 #include <ctype.h>
 #include <stdbool.h>
