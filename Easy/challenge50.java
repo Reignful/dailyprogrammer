@@ -1,11 +1,9 @@
-import java.awt.*;
-
 /**
  * Created by Josh on 15-06-12.
  */
 import java.util.Arrays;
 
-public class challange50 {
+public class challenge50 {
     public static void main(String[] args) {
         //Test Cases
         int C = 8;
