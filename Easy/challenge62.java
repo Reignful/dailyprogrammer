@@ -15,7 +15,7 @@ public class challenge62 {
         double[] sortedList = Arrays.copyOfRange(list,0,k);
         for (double i: sortedList) {
             //Loop through all elements of sortedList and sum them
-            sum += i
+            sum += i;
         }
         if (sum < t) {
             System.out.println("There is a subset of numbers who's sum is " + sum + " and less than " + t);
