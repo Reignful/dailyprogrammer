@@ -17,10 +17,11 @@ Here are my current solutions to r/dailyprogrammer from reddit.
 | 20| [Challenge #20](https://www.reddit.com/r/dailyprogrammer/comments/qnkro/382012_challenge_20_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge20.py)|   |
 | 22| [Challenge #22](https://www.reddit.com/r/dailyprogrammer/comments/qr0hg/3102012_challenge_22_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge22.py)|   |
 | 27| [Challenge #27](https://www.reddit.com/r/dailyprogrammer/comments/r0r3h/3172012_challenge_27_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge27.py)|   |
-| 34| [Challenge #34](https://www.reddit.com/r/dailyprogrammer/comments/rmmn8/3312012_challenge_34_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge34.java)|   |
-| 37| [Challenge #37](https://www.reddit.com/r/dailyprogrammer/comments/rzdwq/482012_challenge_37_easy/)| [C](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge37.c)|   |
-| 39| [Challenge #39](https://www.reddit.com/r/dailyprogrammer/comments/s6bas/4122012_challenge_39_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge39.java)|   |
-| 40| [Challenge #40](https://www.reddit.com/r/dailyprogrammer/comments/schtf/4162012_challenge_40_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge40.java)|   |
+| 34| [Challenge #34](https://www.reddit.com/r/dailyprogrammer/comments/rmmn8/3312012_challenge_34_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Java/challenge34.java)|   |
+| 37| [Challenge #37](https://www.reddit.com/r/dailyprogrammer/comments/rzdwq/482012_challenge_37_easy/)| [C](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/C/challenge37.c)|   |
+| 39| [Challenge #39](https://www.reddit.com/r/dailyprogrammer/comments/s6bas/4122012_challenge_39_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Java/challenge39.java)|   |
+| 40| [Challenge #40](https://www.reddit.com/r/dailyprogrammer/comments/schtf/4162012_challenge_40_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Java/challenge40.java)|   |
 | 46| [Challenge #46](https://www.reddit.com/r/dailyprogrammer/comments/szz5y/4302012_challenge_46_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge46.py)|   |
 | 47| [Challenge #47](https://www.reddit.com/r/dailyprogrammer/comments/t33vi/522012_challenge_47_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge47.py)|   |
-| 62| [Challenge #62](https://www.reddit.com/r/dailyprogrammer/comments/urqcx/682012_challenge_62_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge62.java)|   |
+| 50|[Challenge #50](https://www.reddit.com/r/dailyprogrammer/comments/teua8/592012_challenge_50_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Java/challenge50.java)| |
+| 62| [Challenge #62](https://www.reddit.com/r/dailyprogrammer/comments/urqcx/682012_challenge_62_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Java/challenge62.java)|   |
