@@ -6,10 +6,9 @@ Here are my current solutions to r/dailyprogrammer from reddit.
 | #| Title| Solution| Time|
 |---|---|---|---|
 | 1 | [challenge #1](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/)  | [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge1.py)   |   |
-| 2| [challenge #2](https://www.reddit.com/r/dailyprogrammer/comments/pjbj8/easy_challenge_2/)|   |   |
-| 3| [Challenge #3](https://www.reddit.com/r/dailyprogrammer/comments/pkw2m/2112012_challenge_3_easy/)|   |   |
-| 4| [Challenge #4](https://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/)|   |   |
-| 5| [Challenge #5](https://www.reddit.com/r/dailyprogrammer/comments/pnhyn/2122012_challenge_5_easy/)|   |   |
+| 2| [challenge #2](https://www.reddit.com/r/dailyprogrammer/comments/pjbj8/easy_challenge_2/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge2.py)|   |
+| 3| [Challenge #3](https://www.reddit.com/r/dailyprogrammer/comments/pkw2m/2112012_challenge_3_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge3.py)|   |
+| 4| [Challenge #4](https://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge4.py)|   |
 | 11| [Challenge #11](https://www.reddit.com/r/dailyprogrammer/comments/pwons/2192012_challenge_11_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge11.py)|   |
 | 12| [Challenge #12](https://www.reddit.com/r/dailyprogrammer/comments/pxs2x/2202012_challenge_12_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge12.py)|   |
 | 16| [Challenge #16](https://www.reddit.com/r/dailyprogrammer/comments/q8aom/2272012_challenge_16_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge16.py)|   |
@@ -23,10 +22,3 @@ Here are my current solutions to r/dailyprogrammer from reddit.
 | 46| [Challenge #46](https://www.reddit.com/r/dailyprogrammer/comments/szz5y/4302012_challenge_46_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge46.py)|   |
 | 47| [Challenge #47](https://www.reddit.com/r/dailyprogrammer/comments/t33vi/522012_challenge_47_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge47.py)|   |
 | 62| [Challenge #62](https://www.reddit.com/r/dailyprogrammer/comments/urqcx/682012_challenge_62_easy/)| [Java](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/challenge62.java)|   |
-
-
-
-
-
-
-##Medium
