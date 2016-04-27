@@ -2,6 +2,8 @@
 
 Here are my current solutions to r/dailyprogrammer from reddit.
 
+[Challenge List in Chronological Order](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
+
 ##Easy
 | #| Title| Solution| Time|
 |---|---|---|---|
