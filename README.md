@@ -16,6 +16,7 @@ Here are my current solutions to r/dailyprogrammer from reddit.
 | 11| [Challenge #11](https://www.reddit.com/r/dailyprogrammer/comments/pwons/2192012_challenge_11_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge11.py)|   |
 | 12| [Challenge #12](https://www.reddit.com/r/dailyprogrammer/comments/pxs2x/2202012_challenge_12_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge12.py)|   |
 | 16| [Challenge #16](https://www.reddit.com/r/dailyprogrammer/comments/q8aom/2272012_challenge_16_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge16.py)|   |
+| 17| [Challenge #17](https://www.reddit.com/r/dailyprogrammer/comments/qheeu/342012_challenge_17_easy/)| [C++](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/C%2B%2B/challenge17.cpp)|   |
 | 20| [Challenge #20](https://www.reddit.com/r/dailyprogrammer/comments/qnkro/382012_challenge_20_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge20.py)|   |
 | 22| [Challenge #22](https://www.reddit.com/r/dailyprogrammer/comments/qr0hg/3102012_challenge_22_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge22.py)|   |
 | 27| [Challenge #27](https://www.reddit.com/r/dailyprogrammer/comments/r0r3h/3172012_challenge_27_easy/)| [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge27.py)|   |
