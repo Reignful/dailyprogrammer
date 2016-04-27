@@ -1,7 +1,6 @@
 /**
  * Created by Josh on 15-06-12.
- *
-/
+ */
 import java.util.Arrays;
 
 public class challenge50 {
