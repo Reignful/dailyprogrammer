@@ -1,4 +1,4 @@
-#[r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
+#[DailyProgrammer](https://www.reddit.com/r/dailyprogrammer)
 
 Here are my current solutions to r/dailyprogrammer from reddit.
 
