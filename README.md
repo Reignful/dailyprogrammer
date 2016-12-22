@@ -1,5 +1,7 @@
 #[DailyProgrammer](https://www.reddit.com/r/dailyprogrammer)
 
+![alt tag](http://infocreeds.com/wp-content/uploads/2016/04/top-10-coding-challanges-websites-DailyProgrammer.jpg)
+
 Here are my current solutions to r/dailyprogrammer from reddit.
 
 [Challenge List in Chronological Order](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
