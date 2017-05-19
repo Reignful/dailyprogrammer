@@ -1,4 +1,4 @@
-#[DailyProgrammer](https://www.reddit.com/r/dailyprogrammer)
+# DailyProgrammer](https://www.reddit.com/r/dailyprogrammer)
 
 ![alt tag](http://infocreeds.com/wp-content/uploads/2016/04/top-10-coding-challanges-websites-DailyProgrammer.jpg)
 
@@ -6,7 +6,7 @@ Here are my current solutions to r/dailyprogrammer from reddit.
 
 [Challenge List in Chronological Order](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
 
-##Easy
+## Easy
 | #| Title| Solution| Time|
 |---|---|---|---|
 | 1 | [challenge #1](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/)  | [Python](https://github.com/joshvocal/dailyprogrammer/blob/master/Easy/Python/challenge1.py)   |   |
