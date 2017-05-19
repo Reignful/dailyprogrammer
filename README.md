@@ -1,4 +1,4 @@
-# DailyProgrammer](https://www.reddit.com/r/dailyprogrammer)
+# [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer)
 
 ![alt tag](http://infocreeds.com/wp-content/uploads/2016/04/top-10-coding-challanges-websites-DailyProgrammer.jpg)
 
